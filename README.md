@@ -7,6 +7,16 @@
 - This project will provide future guests with accommodation recommendations based on previous guest experiences. 
 <br>
 </br>
+<h3 align="Left" style="color: red;">Project members </h3>
+<h4 align="Left"> Lab group Fri 8-10-E </h4>
+Hajra Iqbal - hiqb867<br> 
+Jennifer Wang - jwan594<br> 
+Deema Sabbagh - dsab252<br> 
+Quyet Xuan Dinh - dquy728<br> 
+Jingyi Wang - jwan479<br>
+<br>
+</br>
+
 <h3 align="Left" style="color: red;">Datasets </h3>
 - For this project, I use the Airbnb dataset that is provided by the University of Auckland. The Airbnb dataset describes features of different accommodations and the corresponding guest satisfaction of guests depending on the different features to guide future guests to choose their desired accommodation type. The dataset consists of variables such as: 
 <br>
