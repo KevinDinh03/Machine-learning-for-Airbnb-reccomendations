@@ -1,4 +1,4 @@
-<h1 align="center">MACHINE LEARNING FOR AIRBNB RECOMMENDATIONS (IN PROGRESS) </h1>
+<h1 align="center">MACHINE LEARNING FOR AIRBNB RECOMMENDATIONS </h1>
 <h3 align="center">A project that supports future guests with accommodation recommendations. </h3>
 <h3 align="Left" style="color: red;">Project vision </h3>
 - For this project, I will address the problem of guests choosing accommodations that are not fully tailored to their needs. I will do this by training a model based on multiple variables to predict accommodation satisfaction ratings to give the best recommendations to customers.
