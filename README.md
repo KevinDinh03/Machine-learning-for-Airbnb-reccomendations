@@ -21,19 +21,20 @@ Jingyi Wang - jwan479<br>
 - For this project, I use the Airbnb dataset that is provided by the University of Auckland. The Airbnb dataset describes features of different accommodations and the corresponding guest satisfaction of guests depending on the different features to guide future guests to choose their desired accommodation type. The dataset consists of variables such as: 
 <br>
 </br>
-Price: the price of the accommodation<br>
-Person Capacity: maximum person capacity per accommodation<br>
-Multiple Rooms: the number of rooms<br>
-Business<br>
-Cleanliness Rating: the cleanliness of the Airbnb<br>
-City Centre: distance from the Airbnb to the city centre<br>
-Metro Distance: distance from the Airbnb to the metro<br>
-Attraction Index: the attractiveness of the area of the Airbnb<br>
-Normalised Attraction Index<br>
-Restaurant Index: the quality of restaurants near the Airbnb<br>
-Normalised Restaurant Index<br>
-Room_Type_Entire home/apt<br>
-Room_Type_Private room<br>
-Room_Type_Shared room<br>
-Guest Satisfaction
+
+**Price:** The price of the accommodation<br>
+**Person Capacity:** Maximum person capacity per accommodation<br>
+**Multiple Rooms:** The number of rooms<br>
+**Business:** n/a<br>
+**Cleanliness Rating:** The cleanliness of the Airbnb<br>
+**City Centre:** Distance from the Airbnb to the city centre<br>
+**Metro Distance:** Distance from the Airbnb to the metro<br>
+**Attraction Index:** The attractiveness of the area of the Airbnb<br>
+**Normalised Attraction Index**<br>
+**Restaurant Index:** The quality of restaurants near the Airbnb<br>
+**Normalised Restaurant Index**<br>
+**Room_Type_Entire home/apt:** Whole house type<br>
+**Room_Type_Private room:** Private room type<br>
+**Room_Type_Shared room:** Shared room type<br>
+**Guest Satisfaction:** Level of guest satisfaction
 
