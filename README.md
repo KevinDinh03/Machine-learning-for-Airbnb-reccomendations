@@ -40,6 +40,10 @@ Jingyi Wang - jwan479<br>
 
 <br>
 </br>
-<h3 align="Left" style="color: red;">links </h3>
-- 
+<h3 align="Left" style="color: red;">Links </h3>
+
+**- Dataset:** https://github.com/KevinDinh03/Machine-learning-for-Airbnb-reccomendations/tree/main/Dataset<br>
+**- Project report:** https://github.com/KevinDinh03/Machine-learning-for-Airbnb-reccomendations/blob/main/302%20GROUP%20REPORT.pdf<br>
+**- Code:** https://github.com/KevinDinh03/Machine-learning-for-Airbnb-reccomendations/blob/main/Machine_learning_for_Airbnb_reccomendation.ipynb<br>
+**- GitHub Repository:** https://github.com/KevinDinh03/Machine-learning-for-Airbnb-reccomendations<br>
 
